@@ -3,4 +3,4 @@ template: index.jade
 title: Главная
 ---
 
-картинки
+![](main.jpg)
